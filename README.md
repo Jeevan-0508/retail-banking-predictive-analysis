@@ -7,6 +7,8 @@
 
 > End-to-end predictive analytics pipeline for retail banking — classifying customer risk and predicting defaults using machine learning and a Node-RED interactive dashboard.
 
+> **Legacy / Learning Project.** One of my early ML notebooks, kept public as a record of the learning path (classic scikit-learn pipelines, EDA, model comparison). Superseded in portfolio terms by the shipped risk/fraud/governance systems in [Jeevan-0508](https://github.com/Jeevan-0508) — this repo is archived, not deleted.
+
 ## 📌 Problem Statement
 Retail banks face mounting pressure to proactively identify customers at risk of default or financial distress. This project builds a classification model that predicts risk outcomes from customer transaction and demographic data, paired with a real-time Node-RED UI.
 
@@ -54,4 +56,4 @@ jupyter notebook "Predictive Analytics For Retail Banking .ipynb"
 This project mirrors real-world risk workflows used by banks to automate credit decisioning — directly applicable to fraud risk, credit risk, and regulatory compliance.
 
 ---
-*Jeevan Siddha Bhaktula · Risk & Data Science Portfolio*
+*Jeevan Siddhabhaktula · Risk & Data Science Portfolio*
